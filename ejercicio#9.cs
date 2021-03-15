@@ -24,7 +24,7 @@ namespace Tabla
 
         public void Calcular(int v)
         {
-            for(int i=v;i<=v*10;i=i+v) 
+            for(int i=v;i<=v*12;i=i+v) 
             {
                 Console.Write(i+"|");
             }
